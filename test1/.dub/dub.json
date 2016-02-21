@@ -1,0 +1,8 @@
+{
+	"dub": {
+		"lastUpgrade": "2016-02-20T20:06:40.375235",
+		"cachedUpgrades": {
+			"gdald": "~master"
+		}
+	}
+}
